@@ -1,0 +1,6 @@
+[submodule "mahour-customer-club-front"]
+	path = mahour-customer-club-front
+	url = https://github.com/sananqsh/mahour_ai_frontend.git
+[submodule "mahour-customer-club-back"]
+	path = mahour-customer-club-back
+	url = https://github.com/sananqsh/mahour_ai_backend.git
